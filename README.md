@@ -1,49 +1,48 @@
-# Awesome-Document-Transformation-PDF-Utilities
-# Awesome-Document-Transformation-PDF-Utilities
+<div align="center">
 
-markdown
+<img src="./assets/banner.svg" alt="Awesome Document Transformation &amp; PDF Utilities Banner" width="100%" />
 
-## Top Document Transformation & PDF Utilities
+# 📄 Awesome Document Transformation & PDF Utilities 🛠️
 
+**A curated, production-ready directory of cutting-edge SaaS platforms, self-hosted Docker suites, CLI engines, OCR pipelines, and developer libraries for document conversion and PDF manipulation.**
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Document-Transformation-PDF-Utilities/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Empowering developers, privacy-conscious teams, enterprise architects, and document automation engineers.*
 
-*Focused on PDF Manipulation, Document Conversion, OCR, Merging/Splitting & Self-Hosted Document Suites*  
+📅 **Last updated: November 2026**
 
-**Last updated: November 2026**
+---
 
+</div>
 
+## 📌 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Document Transformation & PDF Utilities**. These tools handle PDF merging, splitting, compression, OCR text extraction, format conversion (Office, HTML, Markdown, Images to PDF), redaction, and programmatic document pipelines for individuals, developers, and enterprise workflows.
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ All Open-Source Projects (Ranked by Stars)](#-all-open-source-projects-ranked-by-stars)
+  - [📂 Categorized Highlights](#-categorized-highlights)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
-**Examples** include iLovePDF, Smallpdf, Adobe Acrobat Web, pdfFiller, PDF24 Cloud, Sejda, Foxit PDF Cloud, Nitro Cloud, Soda PDF, and Wondershare PDFelement Cloud (the category leaders).
+The global PDF editor and document transformation software market is estimated at approximately **$4.8B to $5.5B (2025–2026)** and is projected to expand steadily at a compound annual growth rate (CAGR) of 10%–18% driven by paperless digital workflows, remote collaboration, and AI-powered document intelligence. 
 
+The sector displays a hybrid competitive structure that is **moderately concentrated at the enterprise top** (dominated by Adobe and a handful of tier-1 suites controlling ~54% of global market revenue) and **heavily fragmented across the long-tail base**, where numerous bootstrapped SaaS providers, specialized self-hosted web applications, and freemium utilities compete vigorously on pricing, task-based convenience, and local data privacy.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted web PDF suites, CLI manipulation engines, headless HTML-to-PDF renderers, and programmatic libraries — ideal for privacy-conscious teams, backend developers, and organizations avoiding per-seat SaaS licensing.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global PDF editor and document transformation software market is estimated at approximately **$4.8B to $5.5B (2025–2026)** and is projected to expand steadily at a CAGR of 10%–18% driven by paperless workflows and AI document intelligence. The sector displays a hybrid competitive structure that is **moderately concentrated at the enterprise top** (dominated by Adobe and a handful of tier-1 suites controlling ~54% of market revenue) and **heavily fragmented across the long-tail base**, where numerous bootstrapped and freemium web utilities compete vigorously on pricing, task-based convenience, and accessibility.
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 | Company / Product | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -58,202 +57,168 @@ The global PDF editor and document transformation software market is estimated a
 | **[Sejda](https://sejda.com)** | Bootstrapped (Sejda BV); Lean team (<50 employees) | $5.00 (7-day Web Week Pass) or $7.50/month (Web Monthly) | Free forever plan: 3 tasks per hour (web) / 3 tasks per day (desktop), max 200 pages or 50 MB per document, single-file tasks only (no batch processing), OCR limited to 10 pages | Web and desktop PDF productivity suite providing browser-based editing, form creation, deskewing, splitting by bookmarks, and batch processing. |
 | **[PDF24 Cloud](https://pdf24.org)** *(geek software GmbH)* | Bootstrapped; Lean team (Berlin, Germany) | Free (€0.00) for web tools; Fax service starts at €5.00/month | Free forever: 100% free with unlimited file sizes, unlimited pages, and unlimited daily tasks supported via unobtrusive web ads (files auto-deleted after 1 hour); Fax service free tier capped at 5 pages/month | Free online collection of browser-based PDF tools covering creation, merging, compression, OCR, and page organization without installation. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+An expansive selection of open-source document transformation tools, self-hosted PDF suites, headless rendering engines, OCR utilities, and programmatic manipulation libraries. Ideal for privacy-focused environments, automated CI/CD pipelines, and high-throughput backend services.
 
+### ⭐ All Open-Source Projects (Ranked by Stars)
 
+Every repository below includes a real-time star badge linking directly to its GitHub stargazers page, strictly sorted in descending order:
 
-- **[PaperMorph (`dozentwelve/papermorph`)](https://github.com)**  
+1. **[Playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+   High-performance browser automation framework (Chromium, Firefox, WebKit) delivering pixel-perfect HTML/CSS to PDF generation, header/footer templating, and full-page document capture.
 
-  Open-source document transformation utility focused on clean, self-hosted PDF and document format conversion workflows.
+2. **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
+   The premier self-hosted, Docker-ready web PDF suite offering 50+ local operations including merge, split, OCR, sign, redact, compress, watermark, and multi-format conversions without cloud tracking.
 
+3. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+   Node.js library providing high-level headless Chrome control to render dynamic JavaScript web applications and styled HTML documents into print-grade PDFs.
 
+4. **[Docling](https://github.com/DS4SD/docling)** [![Stars](https://img.shields.io/github/stars/DS4SD/docling?style=social&color=white)](https://github.com/DS4SD/docling/stargazers)  
+   Advanced AI document parsing engine from IBM converting complex PDFs, DOCX, scans, and multi-column layouts into rich Markdown and structured JSON for RAG and LLM systems.
 
-- **[Stirling-PDF (`Stirling-Tools/Stirling-PDF`)](https://github.com)**  
+5. **[Typst](https://github.com/typst/typst)** [![Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
+   A modern, blazing-fast, Rust-based markup typesetting system designed as an approachable, programmable alternative to LaTeX for creating publication-grade PDFs.
 
-  The premier locally hosted, Docker-ready web application offering 50+ PDF operations including merge, split, OCR, sign, redact, and convert.
+6. **[PDF.js](https://github.com/mozilla/pdf.js)** [![Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)  
+   Mozilla's ubiquitous HTML5/JavaScript PDF rendering engine powering native browser viewing, canvas rendering, text selection, and client-side extraction.
 
+7. **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
+   Community-driven document management system that scans, indexes, OCRs, tags, and archives physical and digital PDF documents into a self-hosted, searchable archive.
 
+8. **[Pandoc](https://github.com/jgm/pandoc)** [![Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
+   The universal document converter capable of transforming Markdown, HTML, LaTeX, DOCX, EPUB, and dozens of markup dialects into PDFs via PDF engines.
 
-- **[BentoPDF (`alam00000/bentopdf`)](https://github.com)**  
+9. **[Marker](https://github.com/VikParuchuri/marker)** [![Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=social&color=white)](https://github.com/VikParuchuri/marker/stargazers)  
+   High-accuracy deep-learning pipeline that converts complex PDFs, math equations, tables, and multi-column papers into clean Markdown, JSON, and HTML.
 
-  Privacy-first, client-side PDF toolkit running entirely in the browser via WebAssembly so files never leave the user's device.
+10. **[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)** [![Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers)  
+    Command-line tool built on Tesseract that inserts an accurate, searchable OCR text layer into scanned PDFs while preserving original images and optimizing file size.
 
+11. **[BentoPDF](https://github.com/alam00000/bentopdf)** [![Stars](https://img.shields.io/github/stars/alam00000/bentopdf?style=social&color=white)](https://github.com/alam00000/bentopdf/stargazers)  
+    Privacy-first, client-side PDF toolkit operating entirely inside your browser via WebAssembly so documents never leave your machine.
 
+12. **[Xournal++](https://github.com/xournalpp/xournalpp)** [![Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)  
+    Open-source handwriting notetaking, drawing, and PDF annotation software featuring stylus support, layer management, and form-signing capabilities.
 
-- **[Omni-Tools (`iib0011/omni-tools`)](https://github.com)**  
+13. **[Gotenberg](https://github.com/gotenberg/gotenberg)** [![Stars](https://img.shields.io/github/stars/gotenberg/gotenberg?style=social&color=white)](https://github.com/gotenberg/gotenberg/stargazers)  
+    Docker-powered stateless REST API orchestrating Chromium and LibreOffice to convert HTML, Markdown, Word, Excel, and PowerPoint files into PDFs and PDF/A archives.
 
-  Self-hosted web suite providing fast, browser-based utilities for PDF manipulation, image conversion, and document formatting.
+14. **[PyMuPDF](https://github.com/pymupdf/PyMuPDF)** [![Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)  
+    Ultra-fast Python binding for MuPDF providing layout-aware text/table extraction, rendering, annotation, redaction, and multi-format conversion.
 
+15. **[Omni-Tools](https://github.com/iib0011/omni-tools)** [![Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
+    Self-hosted web application delivering a comprehensive array of utilities for document manipulation, format conversion, image optimization, and PDF tweaks.
 
+16. **[pypdf](https://github.com/py-pdf/pypdf)** [![Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)  
+    Pure-Python PDF library capable of splitting, merging, cropping, encrypting, decrypting, rotating, and extracting metadata/text from PDF files without external binaries.
 
-- **[Gotenberg (`gotenberg/gotenberg`)](https://github.com)**  
+17. **[WeasyPrint](https://github.com/Kozea/WeasyPrint)** [![Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)  
+    Visual rendering engine translating HTML and CSS stylesheets directly into crisp, book-quality, print-ready PDF files without requiring a browser runtime.
 
-  Developer-friendly, Docker-powered stateless API wrapping Chromium and LibreOffice to convert HTML, Markdown, and Office files into PDFs.
+18. **[pdfcpu](https://github.com/pdfcpu/pdfcpu)** [![Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)  
+    Fast Go-based PDF processor and CLI utility supporting validation, slicing, page extraction, merging, optimization, watermarking, stamping, and encryption.
 
+19. **[pdf-lib](https://github.com/Hopding/pdf-lib)** [![Stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)  
+    Zero-dependency JavaScript and TypeScript library to create and modify PDF documents in Node.js, Deno, React Native, and directly in modern web browsers.
 
+20. **[pdfminer.six](https://github.com/pdfminer/pdfminer.six)** [![Stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=social&color=white)](https://github.com/pdfminer/pdfminer.six/stargazers)  
+    Community-maintained Python tool focusing entirely on extracting exact text layouts, fonts, coordinates, and metadata from stubborn PDF files.
 
-- **[PDFtk Server (`pdftk-java`)](https://gitlab.com)**  
+21. **[Quarto CLI](https://github.com/quarto-dev/quarto-cli)** [![Stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social&color=white)](https://github.com/quarto-dev/quarto-cli/stargazers)  
+    Open-source scientific and technical publishing system based on Pandoc that weaves Python/R code and Markdown into publication-grade PDF documents.
 
-  Classic command-line Swiss Army knife for merging, splitting, decrypting, encrypting, watermarking, and filling PDF forms in automated pipelines.
+22. **[PDF Arranger](https://github.com/pdfarranger/pdfarranger)** [![Stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)  
+    Lightweight GTK graphical desktop app powered by pikepdf for interactively merging, splitting, rotating, cropping, and rearranging PDF pages.
 
+23. **[Dangerzone](https://github.com/freedomofpress/dangerzone)** [![Stars](https://img.shields.io/github/stars/freedomofpress/dangerzone?style=social&color=white)](https://github.com/freedomofpress/dangerzone/stargazers)  
+    Security-focused utility that sanitizes suspicious PDFs, office documents, or images by converting them to pixels inside an isolated sandbox container and synthesizing clean safe PDFs.
 
+24. **[QPDF](https://github.com/qpdf/qpdf)** [![Stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)  
+    C++ library and command-line engine performing structural, content-preserving transformations on PDFs such as linearization (web optimization), encryption, and inspection.
 
-- **[QPDF (`qpdf/qpdf`)](https://github.com)**  
+25. **[pdfme](https://github.com/pdfme/pdfme)** [![Stars](https://img.shields.io/github/stars/pdfme/pdfme?style=social&color=white)](https://github.com/pdfme/pdfme/stargazers)  
+    TypeScript-based open-source PDF generator and interactive visual UI template designer allowing developers and users to build dynamic PDF templates quickly.
 
-  Command-line tool and C++ library performing structural, content-preserving transformations on PDFs such as linearization, encryption, and inspection.
+26. **[LibreOffice Core](https://github.com/LibreOffice/core)** [![Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
+    Enterprise office suite whose headless CLI (`soffice --headless --convert-to pdf`) serves as the industry standard for converting DOCX, XLSX, and PPTX to PDF in automated server backends.
 
+27. **[PDFsam Basic](https://github.com/torakiki/pdfsam)** [![Stars](https://img.shields.io/github/stars/torakiki/pdfsam?style=social&color=white)](https://github.com/torakiki/pdfsam/stargazers)  
+    Desktop Java application for visual document operations: splitting, merging, extracting pages, rotating, and mixing PDF documents.
 
+28. **[Apache PDFBox](https://github.com/apache/pdfbox)** [![Stars](https://img.shields.io/github/stars/apache/pdfbox?style=social&color=white)](https://github.com/apache/pdfbox/stargazers)  
+    Mature open-source Java library to create, manipulate, render, extract text/fonts, and cryptographically sign PDF documents across enterprise software.
 
-- **[Ghostscript (`ArtifexSoftware/ghostpdl`)](https://github.com)**  
+29. **[pikepdf](https://github.com/pikepdf/pikepdf)** [![Stars](https://img.shields.io/github/stars/pikepdf/pikepdf?style=social&color=white)](https://github.com/pikepdf/pikepdf/stargazers)  
+    Pythonic wrapper around the QPDF C++ engine for fast low-level PDF object tree manipulation, metadata repairs, and seamless page restructuring.
 
-  Industry-standard interpreter for PostScript and PDF files widely used for high-ratio PDF compression, rasterization, and PDF/A archival conversion.
+30. **[lopdf](https://github.com/J-F-Liu/lopdf)** [![Stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=social&color=white)](https://github.com/J-F-Liu/lopdf/stargazers)  
+    High-performance Rust library for parsing, analyzing, mutating, and writing raw PDF document structures.
 
+31. **[PaperMorph](https://github.com/dozentwelve/papermorph)** [![Stars](https://img.shields.io/github/stars/dozentwelve/papermorph?style=social&color=white)](https://github.com/dozentwelve/papermorph/stargazers)  
+    AI document processing skill that transforms long-form text, books, and documents into interactive, structured outputs.
 
+32. **[Unpaper](https://github.com/unpaper/unpaper)** [![Stars](https://img.shields.io/github/stars/unpaper/unpaper?style=social&color=white)](https://github.com/unpaper/unpaper/stargazers)  
+    Post-processing utility for scanned document pages that strips dark borders, removes noise/speckles, and deskews rotations prior to OCR conversion.
 
-- **[OCRmyPDF (`ocrmypdf/OCRmyPDF`)](https://github.com)**  
+33. **[Ghostscript](https://github.com/ArtifexSoftware/ghostpdl)** [![Stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers)  
+    Canonical interpreter for PostScript and PDF files, widely used in server environments for high-ratio PDF compression, rasterization, and PDF/A archival compliance.
 
-  Command-line tool built on Tesseract that adds an accurate, searchable OCR text layer to scanned PDFs while preserving original image resolution.
+34. **[PDFtk Server / pdftk-java](https://gitlab.com/pdftk-java/pdftk)**  
+    The classic CLI Swiss Army knife for merging, splitting, decrypting, encrypting, stamping watermarks, and filling interactive PDF FDF/XFDF forms.
 
+35. **[Poppler](https://poppler.freedesktop.org)**  
+    Core Linux PDF rendering library providing fundamental CLI utilities (`pdftotext`, `pdftoppm`, `pdfimages`, `pdfunite`) found in nearly every Linux distribution.
 
+---
 
-- **[Pandoc (`jgm/pandoc`)](https://github.com)**  
+### 📂 Categorized Highlights
 
-  Universal document converter capable of transforming Markdown, HTML, LaTeX, DOCX, EPUB, and dozens of markup formats into publication-grade PDFs.
+- **🐳 Full Self-Hosted Web Suites:** [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF), [BentoPDF](https://github.com/alam00000/bentopdf), [Omni-Tools](https://github.com/iib0011/omni-tools)
+- **🤖 AI Document Parsing & LLM Ingestion:** [Docling](https://github.com/DS4SD/docling), [Marker](https://github.com/VikParuchuri/marker)
+- **🖨️ Headless HTML-to-PDF Engines:** [Playwright](https://github.com/microsoft/playwright), [Puppeteer](https://github.com/puppeteer/puppeteer), [Gotenberg](https://github.com/gotenberg/gotenberg), [WeasyPrint](https://github.com/Kozea/WeasyPrint)
+- **🔍 OCR & Preprocessing:** [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF), [Unpaper](https://github.com/unpaper/unpaper)
+- **🛡️ Sandbox Security & Redaction:** [Dangerzone](https://github.com/freedomofpress/dangerzone)
+- **✍️ Typesetting & Scientific Publishing:** [Typst](https://github.com/typst/typst), [Pandoc](https://github.com/jgm/pandoc), [Quarto CLI](https://github.com/quarto-dev/quarto-cli)
+- **🐍 Python & Rust Developer Libraries:** [PyMuPDF](https://github.com/pymupdf/PyMuPDF), [pypdf](https://github.com/py-pdf/pypdf), [pdfminer.six](https://github.com/pdfminer/pdfminer.six), [pikepdf](https://github.com/pikepdf/pikepdf), [lopdf](https://github.com/J-F-Liu/lopdf)
+- **☕ Java & TypeScript Developer Libraries:** [pdf-lib](https://github.com/Hopding/pdf-lib), [pdfme](https://github.com/pdfme/pdfme), [PDF.js](https://github.com/mozilla/pdf.js), [Apache PDFBox](https://github.com/apache/pdfbox)
+- **🗂️ CLI Swiss Army Knives:** [pdfcpu](https://github.com/pdfcpu/pdfcpu), [QPDF](https://github.com/qpdf/qpdf), [Ghostscript](https://github.com/ArtifexSoftware/ghostpdl), [Poppler](https://poppler.freedesktop.org), [PDFtk Server](https://gitlab.com/pdftk-java/pdftk)
 
+---
 
+## 📈 Star History
 
-- **[WeasyPrint (`Kozea/WeasyPrint`)](https://github.com)**  
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Document-Transformation-PDF-Utilities&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Document-Transformation-PDF-Utilities&type=date&legend=top-left)
 
-  Visual rendering engine converting HTML and CSS stylesheets directly into crisp, print-ready PDF documents without requiring a headless browser.
+---
 
+## 💖 Support & Sponsorship
 
+Thank you for visiting and using **Awesome Document Transformation & PDF Utilities**! 🌟
 
-- **[Typst (`typst/typst`)](https://github.com)**  
+If you found this curated list helpful for your projects, pipelines, or research:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** and contribute your favorite document transformation tools.
+- 📢 **Share it** on Twitter/X, LinkedIn, Reddit, or developer forums.
+- ☕ **Buy a coffee / sponsor the author** via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to support continuous updates and curated open-source projects!
 
-  Modern, fast, Rust-based markup typesetting system designed as an approachable, programmable alternative to LaTeX for generating PDFs.
+---
 
+## 🤝 How to Contribute
 
+1. Fork the repository.
+2. Add or update entries in [README.md](README.md) following the existing structured format.
+3. Include the project name, official URL / repository, description, starting pricing / free tier limits (for SaaS), or stargazers badge (for open-source).
+4. Submit a Pull Request with a clear summary of your additions.
 
-- **[PDF Arranger (`pdfarranger/pdfarranger`)](https://github.com)**  
+Contributions of all sizes are welcome!
 
-  Lightweight GTK graphical application built on pikepdf for merging, splitting, rotating, cropping, and rearranging PDF pages interactively.
+---
 
+## ⚖️ Disclaimer
 
-
-- **[Paperless-ngx (`paperless-ngx/paperless-ngx`)](https://github.com)**  
-
-  Community-supported document management system that scans, indexes, OCRs, tags, and archives physical and digital PDFs into a searchable repository.
-
-
-
-- **[Docling (`DS4SD/docling`)](https://github.com)**  
-
-  Advanced document parsing engine converting complex PDFs, DOCX, and layouts into structured Markdown and JSON for AI and RAG pipelines.
-
-
-
-- **[Marker (`VikParuchuri/marker`)](https://github.com)**  
-
-  High-accuracy deep-learning pipeline that rapidly converts PDFs, tables, equations, and code blocks into clean Markdown, JSON, or HTML.
-
-
-
-- **[Apache PDFBox (`apache/pdfbox`)](https://github.com)**  
-
-  Mature open-source Java library for creating new PDF documents, manipulating existing files, extracting text, and digitally signing PDFs.
-
-
-
-- **[PyMuPDF (`pymupdf/PyMuPDF`)](https://github.com)**  
-
-  High-performance Python binding for MuPDF enabling ultra-fast PDF text extraction, rendering, annotation, redaction, and format conversion.
-
-
-
-- **[pikepdf (`pikepdf/pikepdf`)](https://github.com)**  
-
-  Pythonic library powered by QPDF for reading, writing, modifying, repairing, and inspecting low-level PDF object trees effortlessly.
-
-
-
-- **[pdf-lib (`Hopding/pdf-lib`)](https://github.com)**  
-
-  Zero-dependency JavaScript/TypeScript library to create and modify PDF documents in Node.js, Deno, React Native, and modern web browsers.
-
-
-
-- **[PDF.js (`mozilla/pdf.js`)](https://github.com)**  
-
-  Mozilla's ubiquitous HTML5/JavaScript PDF rendering engine powering native browser viewing and client-side text extraction.
-
-
-
-- **[PDFsam Basic (`torakiki/pdfsam`)](https://github.com)**  
-
-  Cross-platform desktop application written in Java for splitting, merging, extracting pages, mixing, and rotating PDF documents visually.
-
-
-
-- **[LibreOffice (`LibreOffice/core`)](https://github.com)**  
-
-  Full-featured open-source office suite featuring a powerful headless CLI (`soffice --headless --convert-to pdf`) for high-fidelity Office-to-PDF conversion.
-
-
-
-- **[Poppler (`freedesktop/poppler`)](https://freedesktop.org)**  
-
-  Core PDF rendering library providing essential CLI utilities (`pdftotext`, `pdftoppm`, `pdfimages`, `pdfunite`) across Linux and server environments.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **PDF Security & Redaction** like **[Dangerzone (`freedomofpress/dangerzone`)](https://github.com)** and **[PdfCpu (`pdfcpu/pdfcpu`)](https://github.com)** for sanitizing suspicious documents into safe PDFs and Go-based CLI processing.
-
-- **Invoice & HTML-to-PDF Generators** like **[Puppeteer (`puppeteer/puppeteer`)](https://github.com)** and **[Playwright (`microsoft/playwright`)](https://github.com)** for pixel-perfect Chromium PDF exports.
-
-- **LaTeX & Typesetting Engines** like **[TeX Live](https://tug.org)** and **[Quarto (`quarto-dev/quarto-cli`)](https://github.com)** for scientific and technical publishing.
-
-- **Pure-Python & Rust PDF Libraries** like **[pypdf (`py-pdf/pypdf`)](https://github.com)**, **[ReportLab](https://reportlab.com)**, and **[lopdf (`J-F-Liu/lopdf`)](https://github.com)** for programmatic PDF generation.
-
-Use code with caution.
-
-• Annotation & Desktop Readers like Okular and Xournal++ (xournalpp/xournalpp) for handwriting, form filling, and PDF markup.
-
-Frameworks for building custom systems: Combine Gotenberg or WeasyPrint, OCRmyPDF, QPDF / pikepdf, and Docling to build fully self-hosted, zero-trust document transformation and AI ingestion pipelines.
-
-
-
-How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in README.md (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-
-
-Disclaimer
-
-
-
-• This is a community-curated list — not exhaustive and not an endorsement.
-
-• Processing sensitive legal, medical, or financial documents on third-party SaaS platforms carries privacy and compliance risks; prefer self-hosted or client-side tools for confidential files.
-
-• Self-hosted document converters (especially headless browsers and Office engines) should run in sandboxed containers to mitigate malformed-file exploits.
-
-Made for backend engineers, DevOps teams, privacy advocates, and document workflow architects.
-
-Let's make document transformation and PDF tooling more open, private, and developer-friendly.
+- This repository is a community-curated directory intended solely for educational, informational, and architectural comparison purposes.
+- Processing sensitive legal, medical, or confidential enterprise files on third-party SaaS services may carry compliance, regulatory, and privacy risks; always verify platform terms or opt for self-hosted, sandboxed, or client-side tools for sensitive workloads.
+- Self-hosted document converters—particularly headless browser instances and Office rendering suites—should always run within isolated, restricted containers to mitigate risks from malformed document files.
