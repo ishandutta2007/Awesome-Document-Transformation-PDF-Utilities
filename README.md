@@ -65,7 +65,7 @@ An expansive selection of open-source document transformation tools, self-hosted
 
 ### ⭐ All Open-Source Projects (Ranked by Stars)
 
-Every repository below includes a real-time star badge linking directly to its GitHub stargazers page, strictly sorted in descending order:
+Every repository below includes a real-time Stars_Badge linking directly to its GitHub stargazers page, strictly sorted in descending order:
 
 1. **[Playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    High-performance browser automation framework (Chromium, Firefox, WebKit) delivering pixel-perfect HTML/CSS to PDF generation, header/footer templating, and full-page document capture.
