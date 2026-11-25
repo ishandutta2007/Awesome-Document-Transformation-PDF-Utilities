@@ -33,77 +33,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global PDF editor and document transformation software market is estimated at approximately **$4.8B to $5.5B (2025–2026)** and is projected to expand steadily at a CAGR of 10%–18% driven by paperless workflows and AI document intelligence. The sector displays a hybrid competitive structure that is **moderately concentrated at the enterprise top** (dominated by Adobe and a handful of tier-1 suites controlling ~54% of market revenue) and **heavily fragmented across the long-tail base**, where numerous bootstrapped and freemium web utilities compete vigorously on pricing, task-based convenience, and accessibility.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[iLovePDF](https://ilovepdf.com)**  
-
-  Popular web-based PDF utility suite offering merging, splitting, compression, Office-to-PDF conversion, OCR, and watermarking tools.
-
-
-
-- **[Smallpdf](https://smallpdf.com)**  
-
-  Cloud document management platform featuring browser-based PDF editing, e-signing, compression, and format conversion with cloud storage integrations.
-
-
-
-- **[Adobe Acrobat Web](https://adobe.com)**  
-
-  Official browser-based PDF toolkit from the creators of the PDF standard, supporting editing, commenting, form filling, e-signatures, and conversions.
-
-
-
-- **[pdfFiller](https://pdffiller.com)**  
-
-  Cloud-native PDF editor, form builder, and workflow automation platform tailored for business document signing and compliance.
-
-
-
-- **[PDF24 Cloud](https://pdf24.org)**  
-
-  Free online collection of browser-based PDF tools covering creation, merging, compression, OCR, and page organization without installation.
-
-
-
-- **[Sejda](https://sejda.com)**  
-
-  Web and desktop PDF productivity suite providing browser-based editing, form creation, deskewing, splitting by bookmarks, and batch processing.
-
-
-
-- **[Foxit PDF Cloud](https://foxit.com)**  
-
-  Enterprise cloud PDF editing and e-signature ecosystem offering real-time document collaboration, redaction, and cross-device synchronization.
-
-
-
-- **[Nitro Cloud](https://gonitro.com)**  
-
-  Cloud-based PDF productivity and e-signing solution built for enterprise document workflows, analytics, and high-volume conversions.
-
-
-
-- **[Soda PDF](https://sodapdf.com)**  
-
-  Browser and desktop PDF software offering online document conversion, OCR text recognition, form filling, and cloud storage sync.
-
-
-
-- **[Wondershare PDFelement Cloud](https://wondershare.com)**  
-
-  Cross-platform cloud PDF management and electronic signature service with AI-assisted summarization, translation, and batch conversion.
+| Company / Product | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Acrobat Web](https://adobe.com)** | Market Cap: ~$88B+; Annual Revenue: ~$25.97B | $14.99/user/month (Standard, billed annually) or $24.99 month-to-month | Free forever: Basic viewing, form filling, commenting, simple sharing, and basic page rotation/deletion (editing text/images and conversions require paid plan; 7-day free trial on Pro) | Official browser-based PDF toolkit from the creators of the PDF standard, supporting editing, commenting, form filling, e-signatures, and conversions. |
+| **[pdfFiller](https://pdffiller.com)** *(airSlate)* | Valuation: $1.25B (airSlate); Product Revenue: ~$106M/yr | $8.00/month (Basic, billed annually) or $20.00 month-to-month | No forever-free plan; offers a 30-day free trial (credit card required, full basic editing and form completion, up to ~2,500 documents / 5 GB storage) | Cloud-native PDF editor, form builder, and workflow automation platform tailored for business document signing and compliance. |
+| **[Wondershare PDFelement Cloud](https://wondershare.com)** | Market Cap: ~$1.2B; Annual Revenue: ~$219M | $9.99/month (Monthly plan) or $79.99/year (Yearly desktop plan) | Free forever basic account: 1 GB cloud storage, standard viewer; all exported/edited files include a Wondershare watermark, max 5 signature requests, AI/OCR features limited | Cross-platform cloud PDF management and electronic signature service with AI-assisted summarization, translation, and batch conversion. |
+| **[Foxit PDF Cloud](https://foxit.com)** | Market Cap: ~$700M; Annual Revenue: ~$184M | $10.99/month (billed annually at $129.99/year for PDF Editor) | No forever-free cloud editor tier; offers a 14-day free trial (no credit card required, 300 AI credits/month, full Editor+ access); standalone Foxit PDF Reader is free for viewing/annotation only | Enterprise cloud PDF editing and e-signature ecosystem offering real-time document collaboration, redaction, and cross-device synchronization. |
+| **[Nitro Cloud](https://gonitro.com)** *(Potentia Capital)* | Acquisition Valuation: ~$370M (A$550M); Revenue: ~$67M ARR | $15.00/user/month (Nitro PDF Standard, billed annually) | No forever-free plan; offers a 14-day free trial (no credit card required, full platform access across desktop/cloud/eSign); reverts to read-only/workspace access upon trial expiry | Cloud-based PDF productivity and e-signing solution built for enterprise document workflows, analytics, and high-volume conversions. |
+| **[Soda PDF](https://sodapdf.com)** *(Claranova/Avanquest)* | Parent Revenue: ~€93.7M (~$100M+); Avanquest PDF division | $12.00/month (Standard) or $84.00/year | Free forever basic tier: Max 2 files per day, 3 MB per file size limit; conversion/editing downloads require paid plan; 7-day full access free trial | Browser and desktop PDF software offering online document conversion, OCR text recognition, form filling, and cloud storage sync. |
+| **[Smallpdf](https://smallpdf.com)** | Bootstrapped; Annual Revenue: ~$8M–$11M ARR | $9.00/month (Pro, billed annually at $108/year) or $15.00 month-to-month | Free forever plan: Strict limit of 2 tasks per day across all tools (resets midnight CET), basic compression only, file size capped (5–50 MB), no direct text editing/OCR; 7-day Pro free trial | Cloud document management platform featuring browser-based PDF editing, e-signing, compression, and format conversion with cloud storage integrations. |
+| **[iLovePDF](https://ilovepdf.com)** | Bootstrapped; Estimated Revenue: ~$5M–$10M; 40–75 employees | $5.00/month (Premium, billed annually at $60/year) or $9.00 month-to-month | Free forever Basic plan: Web-only access with ad support, basic merging/splitting/conversion capped at 100 MB per file, single-file processing only, no OCR or AI credits | Popular web-based PDF utility suite offering merging, splitting, compression, Office-to-PDF conversion, OCR, and watermarking tools. |
+| **[Sejda](https://sejda.com)** | Bootstrapped (Sejda BV); Lean team (<50 employees) | $5.00 (7-day Web Week Pass) or $7.50/month (Web Monthly) | Free forever plan: 3 tasks per hour (web) / 3 tasks per day (desktop), max 200 pages or 50 MB per document, single-file tasks only (no batch processing), OCR limited to 10 pages | Web and desktop PDF productivity suite providing browser-based editing, form creation, deskewing, splitting by bookmarks, and batch processing. |
+| **[PDF24 Cloud](https://pdf24.org)** *(geek software GmbH)* | Bootstrapped; Lean team (Berlin, Germany) | Free (€0.00) for web tools; Fax service starts at €5.00/month | Free forever: 100% free with unlimited file sizes, unlimited pages, and unlimited daily tasks supported via unobtrusive web ads (files auto-deleted after 1 hour); Fax service free tier capped at 5 pages/month | Free online collection of browser-based PDF tools covering creation, merging, compression, OCR, and page organization without installation. |
 
 
 
